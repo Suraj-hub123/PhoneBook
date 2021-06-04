@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.mvc.view.prefix'"
+  },
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.mvc.view.suffix'"
+  }
+]}
